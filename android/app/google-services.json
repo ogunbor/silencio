@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "666005019370",
+    "firebase_url": "https://silencio-c10c3-default-rtdb.firebaseio.com",
+    "project_id": "silencio-c10c3",
+    "storage_bucket": "silencio-c10c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666005019370:android:346a994ab67cc99b96d593",
+        "android_client_info": {
+          "package_name": "com.example.silencio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrMrluPXgUihHhjUTASP1v9TKyjeV83C0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
